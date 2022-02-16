@@ -53,7 +53,7 @@
 
 
 ### 以上几个区域的关系划分
-|储藏区|stash(push/pop)|工作区|(add/reset)|索引区|(commit/recet)|本地仓库|(push/pull)|远程仓库|  
+|储藏区|stash(push/pop)|工作区|(add/reset)|索引区|(commit/reset)|本地仓库|(push/pull)|远程仓库|  
 |------|-----|------|----|------|-----|--------|---|--------|  
 
 
